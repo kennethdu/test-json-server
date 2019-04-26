@@ -3,22 +3,22 @@
     {
       "id": 1,      
       "title" : "Home",
-      "body" : "test json server deployment - HOME MOCK DATA"
+      "description" : "test json server deployment - HOME MOCK DATA"
     },
     {
       "id": 2,
       "title": "About",
-      "body": "test json server deployment - ABOUT MOCK DATA"
+      "description": "test json server deployment - ABOUT MOCK DATA"
     },
     {
       "id": 3,
       "title": "Journey",
-      "body": "test json server deployment - Journey MOCK DATA"
+      "description": "test json server deployment - Journey MOCK DATA"
     },
     {
       "id": 4,
       "title": "Contact",
-      "body": "test json server deployment - Contact MOCK DATA"
+      "description": "test json server deployment - Contact MOCK DATA"
     }
   ],
   "profile": {
