@@ -3,22 +3,26 @@
     {
       "id": 1,      
       "title" : "Home",
-      "description" : "test json server deployment - HOME MOCK DATA"
+      "description" : "test json server deployment - HOME MOCK DATA",
+      "fakeNode": "test for fake node level"
     },
     {
       "id": 2,
       "title": "About",
-      "description": "test json server deployment - ABOUT MOCK DATA"
+      "description": "test json server deployment - ABOUT MOCK DATA",
+      "fakeNode": "test for fake node level"
     },
     {
       "id": 3,
       "title": "Journey",
-      "description": "test json server deployment - Journey MOCK DATA"
+      "description": "test json server deployment - JOURNEY MOCK DATA",
+      "fakeNode": "test for fake node level"
     },
     {
       "id": 4,
       "title": "Contact",
-      "description": "test json server deployment - Contact MOCK DATA"
+      "description": "test json server deployment - CONTACT MOCK DATA",
+      "fakeNode": "test for fake node level"
     }
   ],
   "profile": {
