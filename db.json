@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "title" : "Kenneth",
+      "last_name" : "Du",
+      "id" : 1,
+      "body" : "test json server deployment - hopefully this is a private repository - haha"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
