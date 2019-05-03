@@ -5,32 +5,28 @@
       "title" : "Vue Portfolio",
       "description" : "This portfolio was made through a collection of technologies to practice",
       "tech": "Vue.js, Gridsome, Fakejson Server",
-      "links": {
-        "Vue": "FAKE VUE LINK",
-        "Gridsome": "FAKE GRIDSOME LINK",
-        "GraphQL" : "FAKE GRAPHQL LINK",
-        "FakeJson": "FAKE FAKEJSON LINK"
-      },
-      "github": "GITHUB LINK"
+      "github": "GITHUB LINK",
+      "imgURL": "https://picsum.photos/200"
+
     },
     {
       "id": 2,
       "title": "Epicodus Projects",
       "description": "A collection of Full Stack Applications done at Epicodus, an immersive Programming Bootcamp",
       "tech": "JavaScript, Angular, React, C#, ASP .NET MVC, MySQL HTML, and CSS",
-      "links": {
-        "Javascript": "",
-        "Angular": "",
-        "React": "",
-        "C#" : "",
-        "ASP.Net MVC": "",
-        "MySql": "",
-        "HTML": "",
-        "CSS": ""
-      },
-      "github": "GITHUB LINK"
+      "github": "GITHUB LINK",
+      "imgURL": "https://picsum.photos/200"
     }
   ],
+  "home": [
+    {
+      "id": 1,
+      "about": "",
+      "tech": "",
+      "journey": "",
+      "hobbies": ""
+    }
+  ]
   "profile": {
     "name": "kennethdu",
     "id": 1
