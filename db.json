@@ -18,13 +18,34 @@
       "imgURL": "https://picsum.photos/200"
     }
   ],
-  "home": [
+  "homeContent": [
     {
-      "id": 1,
-      "about": "",
-      "tech": "",
-      "journey": "",
-      "hobbies": ""
+      "about": "I am hardworking web developer, who is motivated to self-development in order to deliver results. I consider traveling to be a passion in my life, so being flexible is one of the skills that I have acquired. It has changed my perspective on the world and has allowed me to become personable to naturally excel in unfamiliar situations. I enjoy experiencing and embracing other cultures and believe in the importance of cultural diversity.",
+      "journey": "I am a recent graduate of a 7 month long intensive programming bootcamp called Epicodus. I also recently completed an internship at a software company called Soro, where I assisted with Front End Development of an internal web application. I love to learn and implement new technologies. Nowadays, you can find me trying to stay on top of technologies by listening to podcasts and reading new articles. I am a big fan of Javascript. I strive to mentor those around me and push to deliver the best possible work"
+    }
+  ],
+  "tech": [
+    {
+      "Javascript": "Javascript",
+      "C#": "C#",
+      "Asp.Net MVC": "Asp.Net MVC",
+      "Angular": "Angular 4+",
+      "React": "React",
+      "Vue": "Vue.js",
+      "MySql":"MySQL",
+      "Firebase": "Firebase",
+      "GraphQL": "GraphQL",
+      "Bootstrap": "Bootstrap",
+      "Sass": "Sass",
+      "Buefy":"Buefy",
+      "Gridsome": "Gridsome"
+      }
+  ],
+  "hobbies": [
+    {
+      "Traveling":"Traveling",
+      "Basketball": "Basketball",
+      "Food": "Food"
     }
   ],
   "profile": {
