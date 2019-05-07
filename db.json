@@ -27,8 +27,8 @@
   "tech": [
     {
       "Javascript": "Javascript",
-      "C#": "C#",
-      "Asp.Net MVC": "Asp.Net MVC",
+      "CSharp": "C#",
+      "Asp": "Asp.Net MVC",
       "Angular": "Angular 4+",
       "React": "React",
       "Vue": "Vue.js",
